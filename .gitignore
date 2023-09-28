@@ -1,0 +1,15 @@
+/build/
+*.suo
+*.user
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
